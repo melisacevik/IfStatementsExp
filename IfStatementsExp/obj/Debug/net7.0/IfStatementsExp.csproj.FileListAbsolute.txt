@@ -1,0 +1,15 @@
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/bin/Debug/net7.0/IfStatementsExp
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/bin/Debug/net7.0/IfStatementsExp.deps.json
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/bin/Debug/net7.0/IfStatementsExp.runtimeconfig.json
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/bin/Debug/net7.0/IfStatementsExp.dll
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/bin/Debug/net7.0/IfStatementsExp.pdb
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/IfStatementsExp.csproj.AssemblyReference.cache
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/IfStatementsExp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/IfStatementsExp.AssemblyInfoInputs.cache
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/IfStatementsExp.AssemblyInfo.cs
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/IfStatementsExp.csproj.CoreCompileInputs.cache
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/IfStatementsExp.dll
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/refint/IfStatementsExp.dll
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/IfStatementsExp.pdb
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/IfStatementsExp.genruntimeconfig.cache
+/Users/melisacevik/Desktop/Visual Studio Project/IfStatementsExp/IfStatementsExp/obj/Debug/net7.0/ref/IfStatementsExp.dll
